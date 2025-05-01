@@ -39,3 +39,13 @@ Improved problem-solving and storytelling with data.
 
 #DataScience #MachineLearning #InternshipExperience
 
+git clone https://github.com/shabanaalina14/internship_nit/tree/main
+
+Contact For any questions or suggestions, please feel free to reach.
+
+Gmail: shabanads14@gmail.com
+
+GitHub Profile: shabanaalina14
+
+Happy Coding!
+
